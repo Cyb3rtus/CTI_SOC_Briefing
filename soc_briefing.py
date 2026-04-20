@@ -63,8 +63,11 @@ Use EXACTLY these five section headers (keep the numbering and emoji):
 4. 🔍 Threat Intel Highlights
 5. ✅ SOC Analysts Takeaway
  
+IMPORTANT: You MUST include all five sections. Keep each section to a maximum of 4 bullet points so there is always room for section 5.
+All five sections are mandatory — do not stop before completing section 5.
+ 
 Focus on threats relevant to {INDUSTRY} and {REGION}.
-Be concise. Skip vendor marketing. Flag anything requiring immediate attention with 🚨.
+Be concise — maximum 4 bullets per section. Skip vendor marketing. Flag anything requiring immediate attention with 🚨.
 Format output in Markdown. Provide references where applicable. Make section 5 a bullet list."""
  
  
